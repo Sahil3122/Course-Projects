@@ -7,3 +7,7 @@ In this project, I designed a database for a restaurant, organizing tables like 
 Project-2 Report on Analytic Solution of NYC Taxi Fare
 
 In this project, I analyzed a taxi trip dataset to uncover important trends and insights. I focused on key metrics like total revenue, trip volume, on-time performance, and average trip duration. Using Power BI, I created visualizations, including bar graphs and pie charts, to highlight the busiest days, top vendors, and trip status. The analysis helped identify patterns in taxi service efficiency and demand.[learn more](https://github.com/Sahil3122/Course-Projects/blob/main/Report%20on%20Analytic%20Solution%20of%20NYC%20Taxi%20Fare.pdf)
+
+Project-3 
+
+[learn more](https://github.com/Sahil3122/Course-Projects/blob/main/Cloud%20Architecture%20For%20Smart%20Farm%20agritech.pdf)
