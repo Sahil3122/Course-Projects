@@ -11,3 +11,8 @@ In this project, I analyzed a taxi trip dataset to uncover important trends and 
 Project-3 Cloud Architecture For Smart Farm “AgriTech Farms” 
 
 In this project, I created a cloud-based solution for smart farming. I collected data from IoT sensors, weather APIs, mobile apps, and inventory systems. The data was processed using Azure tools like IoT Hub, Data Lake, and Stream Analytics to provide real-time insights. I built Power BI dashboards to help farmers track crop health, manage inventory, and plan better. This system makes farming more efficient and data-driven. [learn more](https://github.com/Sahil3122/Course-Projects/blob/main/Cloud%20Architecture%20For%20Smart%20Farm%20agritech.pdf)
+
+Project 4:- Power Bi Dashboard for hotel booking
+
+In this project, I analyzed hotel booking data to identify key metrics such as total revenue, cancellation rate, and revenue by market segment. I created two dashboards: one for operational insights, highlighting bookings, revenue trends, and cancellations, and another for market segment analysis. Finally, I developed an Executive Dashboard summarizing overall performance with key KPIs to support strategic decision-making.
+[Get data]. [Dashboard]
