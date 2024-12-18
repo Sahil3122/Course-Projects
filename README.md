@@ -15,4 +15,4 @@ In this project, I created a cloud-based solution for smart farming. I collected
 Project 4:- Power Bi Dashboard for hotel booking
 
 In this project, I analyzed hotel booking data to identify key metrics such as total revenue, cancellation rate, and revenue by market segment. I created two dashboards: one for operational insights, highlighting bookings, revenue trends, and cancellations, and another for market segment analysis. Finally, I developed an Executive Dashboard summarizing overall performance with key KPIs to support strategic decision-making.
-[Get data](https://github.com/Sahil3122/Course-Projects/blob/main/hotel%20Booking%20Data.csv). [Dashboard]
+[Get data](https://github.com/Sahil3122/Course-Projects/blob/main/hotel%20Booking%20Data.csv). [Dashboard](https://github.com/Sahil3122/Course-Projects/blob/main/Fall2024-Sahil-000947537.pbix)
