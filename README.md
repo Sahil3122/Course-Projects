@@ -16,3 +16,6 @@ Project 4:- Power Bi Dashboard for hotel booking
 
 In this project, I analyzed hotel booking data to identify key metrics such as total revenue, cancellation rate, and revenue by market segment. I created two dashboards: one for operational insights, highlighting bookings, revenue trends, and cancellations, and another for market segment analysis. Finally, I developed an Executive Dashboard summarizing overall performance with key KPIs to support strategic decision-making.
 [Get data](https://github.com/Sahil3122/Course-Projects/blob/main/hotel%20Booking%20Data.csv). [Dashboard](https://github.com/Sahil3122/Course-Projects/blob/main/Fall2024-Sahil-000947537.pbix)
+
+Project 5:- YYC DataCon 2025 – Insights on Visual Storytelling
+This repository contains key takeaways from YYC DataCon 2025, focusing on the power of visual storytelling in data communication. Hosted by Hot Neon Learning, the event explored structured frameworks, creative design, and emotional engagement to make data more impactful. Discover insights, resources, and techniques to transform complex data into compelling narratives.
