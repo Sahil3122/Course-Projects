@@ -18,7 +18,9 @@ In this project, I analyzed hotel booking data to identify key metrics such as t
 [Get data](https://github.com/Sahil3122/Course-Projects/blob/main/hotel%20Booking%20Data.csv). [Dashboard](https://github.com/Sahil3122/Course-Projects/blob/main/Fall2024-Sahil-000947537.pbix)
 
 Project 5:- YYC DataCon 2025 – Insights on Visual Storytelling
+
 This repository contains key takeaways from YYC DataCon 2025, focusing on the power of visual storytelling in data communication. Hosted by Hot Neon Learning, the event explored structured frameworks, creative design, and emotional engagement to make data more impactful. Discover insights, resources, and techniques to transform complex data into compelling narratives.[learn more](https://github.com/Sahil3122/Course-Projects/blob/main/YYC_DataCon_2025_Blog-1.pdf)
 
 Final Project:- “HealWise” Drug Prediction Using Patient Data
+
 This project aims to help doctors choose the right drug for patients using machine learning. By analyzing health data like age, gender, blood pressure, cholesterol, and sodium-to-potassium ratio, a model can predict the most suitable medicine. The Random Forest Classifier was used and gave 100% accuracy, making it the best choice. The project helps reduce prescription errors and saves time in hospitals. Data was taken from Kaggle, and various machine learning techniques were tested. HealWise can be used in clinics, health apps, and telemedicine platforms to support faster and smarter drug recommendations.[learn more](https://github.com/Sahil3122/Course-Projects/blob/main/HealWise.pdf).  [Presentation](https://github.com/Sahil3122/Course-Projects/blob/main/Final%20Project%20-healwise.pptx).   [Code File](https://github.com/Sahil3122/Course-Projects/blob/main/Final%20Project.html).
